@@ -21,8 +21,8 @@ public class Task1 {
 	}
 
 	@Test
-	public void test10() {
-		System.out.println("Test 10");
+	public void test11() {
+		System.out.println("Test 11");
 	}
 	
 	
