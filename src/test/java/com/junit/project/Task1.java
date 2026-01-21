@@ -19,6 +19,11 @@ public class Task1 {
 	public void test3() {
 		System.out.println("Test 3");
 	}
+
+	@Test
+	public void test10() {
+		System.out.println("Test 10");
+	}
 	
 	
 }
